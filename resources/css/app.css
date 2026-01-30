@@ -1,4 +1,5 @@
 /* จัดวาง Card ให้อยู่กึ่งกลางหน้าจอ */
+@import 'select2/dist/css/select2.min.css';
 .auth-card {
     background: #ffffff;
     padding: 2.5rem;
@@ -143,5 +144,3 @@ select.form-input {
     align-items: center;
     white-space: nowrap; /* ป้องกันข้อความตัดบรรทัดถ้าปุ่มแคบเกินไป */
 }
-
-@import 'select2/dist/css/select2.min.css';
